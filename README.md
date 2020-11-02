@@ -20,3 +20,5 @@ In the util.php file, add the values required to connect to your databases - MyS
 ?>
 
 ```
+
+You are good to go!
